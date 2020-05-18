@@ -22,4 +22,4 @@ On pourrait même imaginer imbriquer une liste dans une autre...
 
 [la suite](./two.md)
 
-![Alt Text](https://fr.wikibooks.org/wiki/Fichier:Git_icon.svg)
+![Alt Text](https://wac-cdn.atlassian.com/dam/jcr:f6948a92-f446-466f-8783-1dd1cbcc661a/hero.svg?cdnVersion=1017)
