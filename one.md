@@ -1,4 +1,3 @@
-# exercice-equipe-git
 
 Bienvenue sur ce memo sur ce qu'est le Markdown, ou .md pour les intimes  
 Markdown est un langage de balisage léger créé en 2004.  
@@ -23,3 +22,4 @@ On pourrait même imaginer imbriquer une liste dans une autre...
 
 [la suite](./one.md)
 
+!(https://fr.wikibooks.org/wiki/Fichier:Git_icon.svg)
