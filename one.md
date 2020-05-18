@@ -20,6 +20,6 @@ Mais encore :
 
 On pourrait même imaginer imbriquer une liste dans une autre...   
 
-[la suite](./one.md)
+[la suite](./two.md)
 
-!(https://fr.wikibooks.org/wiki/Fichier:Git_icon.svg)
+![Alt Text](https://fr.wikibooks.org/wiki/Fichier:Git_icon.svg)
